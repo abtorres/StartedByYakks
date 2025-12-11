@@ -35,5 +35,8 @@
   },
   "submit": {
     "production": {}
+  },
+  "runtimeVersion": {
+    "policy": "gitCommit"
   }
 }
